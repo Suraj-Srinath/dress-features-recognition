@@ -25,4 +25,4 @@
 
 ### This project is still a work in progress. The preformance can be improved by doing some more experiments.
 
-The jupyter notebook contains code with detailed explanation of the whole process.
+'model_training.ipynb' contains code with detailed explanation of the whole process.
