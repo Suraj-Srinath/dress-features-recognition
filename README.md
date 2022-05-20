@@ -26,3 +26,4 @@
 ### This project is still a work in progress. The preformance can be improved by doing some more experiments.
 
 'model_training.ipynb' contains code with detailed explanation of the whole process.
+'interactive_dress_features_recognition.py' contains the code for interactive user interface which recoginizes the product features
