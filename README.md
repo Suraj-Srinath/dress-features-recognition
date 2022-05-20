@@ -1,5 +1,7 @@
 # dress-features-recognition
 
+### This project is still a work in progress.
+
 ### Task
 - Interactively returns the product features of the uploaded image of women's dress. (using Streamlit)
 
